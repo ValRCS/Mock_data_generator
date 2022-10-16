@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# temp
+temp/
+clean100.txt
+clean100k.txt
+dirty1M.txt
